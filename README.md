@@ -6,7 +6,7 @@ Sou um estunde de programação :computer:
 ## Sobre mim :star:
 Sou graduando no Curso de Análise e Desenvolvimento de Sistemas pela UNIP. Minha paixão por computadores se iniciou desde muito novo, querendo sempre aprender mais e mais sobre o assunto.
 <br>
-Decidi me aprofundar em programação Web por pesquisar sobre o assunto e me abrilhantar logo de cara com tudo que é possível fazer. Participei das cinco Edições da NLW que para minha surpresa foi uma imersão incrível em ambos os projetos desenvolvidos.
+Decidi me aprofundar em programação Web por pesquisar sobre o assunto e me abrilhantar com tudo que é possível fazer. Participei das cinco Edições da NLW que para minha surpresa foi uma imersão incrível em ambos os projetos desenvolvidos.
 
 ## Skils 
 HTML <br>
