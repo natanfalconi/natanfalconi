@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
-Sou apaixonado por por desenvolvimento web e tudo o que é possivel fazer.
-Sou um estunde de programação :computer:
+Sou apaixonado por tecnologia e tudo o que é possivel fazer.
+Sou um estudante de programação web :computer:
 
 
 ## Sobre mim :star:
@@ -12,7 +12,8 @@ Decidi me aprofundar em programação Web por pesquisar sobre o assunto e me abr
 HTML <br>
 CSS <br>
 JavaScript <br>
-SQL - Firebird
+SQL - Firebird <br>
+React JS <br>
 
 ## Atualmente
 Trabalho Atualmente como Suporte e Assistente de Banco de Dados na Empresa RG System, cujo sistema é voltado para gestão saúde.
