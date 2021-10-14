@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 Sou apaixonado por tecnologia e tudo o que é possivel fazer com linhas de código. 
-Sou um estudante de programação web encantado com a prossibilidade de adquirir conhecimentos para resolver problemas :computer:
+:computer: É incrivel a prossibilidade de adquirir conhecimentos para resolver problemas. 
 
 
 ## Sobre mim :star:
