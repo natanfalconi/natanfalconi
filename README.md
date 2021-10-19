@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
-Sou apaixonado por tecnologia e tudo o que é possivel fazer com linhas de código. 
-:computer: É incrivel a prossibilidade de adquirir conhecimentos para resolver problemas. 
+Sou apaixonado por tecnologia e linhas de código e sempre busco aprender algo novo e como posso melhorar com isso. </br>
+É incrível a possibilidade de adquirir conhecimentos para resolver problemas.
 
 
 ## Sobre mim :star:
